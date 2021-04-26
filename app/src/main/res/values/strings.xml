@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="start">start</string>
+    <string name="welcome">Welcome</string>
+    <string name="to">To</string>
+    <string name="tic">Tic Tac Toe</string>
+    <string name="dev">Developed By Tuhin </string>
+    <string name="oftxt">Offline Multiplayer Game</string>
+
+
+    <string name="heading"> </string>
+    <string name="gradle">our main gradle</string>
+    <string name="box0">box1</string>
+    <string name="box1">box1</string>
+    <string name="box2">box1</string>
+    <string name="box3">box1</string>
+    <string name="box4">box1</string>
+    <string name="box5">box1</string>
+    <string name="box6">box1</string>
+    <string name="box7">box1</string>
+    <string name="box8">box1</string>
+    <string name="turn">Its X\'s turn - Tap to Play</string>
+    <string name="refresh">REFRESH</string>
+</resources>
