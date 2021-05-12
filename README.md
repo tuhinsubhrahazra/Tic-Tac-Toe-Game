@@ -13,7 +13,7 @@ This is a puzzel Game
 
 ### Tic-Tac-Toe Version 1.1.0
 
-<a href="https://github.com/tuhinsubhrahazra/Audago-Music-/releases/tag/1.3.0" target="_blank"><img src="https://github.com/tuhinsubhrahazra/Tic-Tac-Toe-Game/releases/tag/1.2.0" /></a>
+<a href="https://github.com/tuhinsubhrahazra/Tic-Tac-Toe-Game/releases/tag/1.2.0" target="_blank"><img src="https://github.com/tuhinsubhrahazra/Audago-Music-/blob/main/get-it-on-github.png" /></a>
 
 <h3>Screenshots</h3>
 
