@@ -15,6 +15,9 @@ This is a puzzel Game
 
 <a href="https://github.com/tuhinsubhrahazra/Tic-Tac-Toe-Game/releases/tag/1.2.0" target="_blank"><img src="https://github.com/tuhinsubhrahazra/Audago-Music-/blob/main/get-it-on-github.png" /></a>
 
+<a href="https://apkpure.com/tiic-tac-toe/com.tuhin.newtictactoe" target="_blank"><img src="https://github.com/tuhinsubhrahazra/Tic-Tac-Toe-Game/blob/master/APKPURE.png" /></a>
+
+
 <h3>Screenshots</h3>
 
 <div class="row">
