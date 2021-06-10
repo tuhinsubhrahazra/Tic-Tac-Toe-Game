@@ -12,7 +12,7 @@ This is a puzzel Game
 # Download App
 
 ### Tic-Tac-Toe Version 1.1.0
-<a href="https://github.com/tuhinsubhrahazra/Tic-Tac-Toe-Game/releases/download/1.2.0/Tic_Tac_Toe_V1.2.1.0" target="_blank"><img src="https://github.com/tuhinsubhrahazra/Audago-Music-/blob/main/download-icon-png-4384.png" 
+<a href="https://github.com/tuhinsubhrahazra/Tic-Tac-Toe-Game/releases/download/1.2.0/Tic_Tac_Toe_V1.2.1.0.apk" target="_blank"><img src="https://github.com/tuhinsubhrahazra/Audago-Music-/blob/main/download-icon-png-4384.png" 
 alt="" width="240" height="180" border="10" /></a>
 
 <a href="https://github.com/tuhinsubhrahazra/Tic-Tac-Toe-Game/releases/tag/1.2.0" target="_blank"><img src="https://github.com/tuhinsubhrahazra/Audago-Music-/blob/main/get-it-on-github.png" /></a>
